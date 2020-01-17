@@ -5,5 +5,6 @@ Date: 2020/01/14
 #include <stdio.h>
 int main(void) {
     printf("Hello World!\n");
+    Printf("My major: Computer Engineering\n");
     return 0;
 }
